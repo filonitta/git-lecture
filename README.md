@@ -1,6 +1,6 @@
-# Table of content
+# Содержание
 
-* [Basics](https://github.com/filonitta/git-lecture/blob/master/basics.md)
+* [Начало](https://github.com/filonitta/git-lecture/blob/master/basics.md)
     * [Определение](https://github.com/filonitta/git-lecture/blob/master/basics.md#определение)
     * [Установка](https://github.com/filonitta/git-lecture/blob/master/basics.md#установка)
     * [Основные возможности](https://github.com/filonitta/git-lecture/blob/master/basics.md#основные-возможности)
@@ -14,4 +14,4 @@
         * [Вспомогательные команды](https://github.com/filonitta/git-lecture/blob/master/basics.md#вспомогательные-команды)
         * [Игнорирование](https://github.com/filonitta/git-lecture/blob/master/basics.md#игнорирование)
     * [SSH](https://github.com/filonitta/git-lecture/blob/master/basics.md#ssh)
-* [Branching](https://github.com/filonitta/git-lecture/blob/master/branching.md)
+* [Ветвление](https://github.com/filonitta/git-lecture/blob/master/branching.md)
