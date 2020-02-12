@@ -14,4 +14,3 @@
         * [Вспомогательные команды](https://github.com/filonitta/git-lecture/blob/master/basics.md#вспомогательные-команды)
         * [Игнорирование](https://github.com/filonitta/git-lecture/blob/master/basics.md#игнорирование)
     * [SSH](https://github.com/filonitta/git-lecture/blob/master/basics.md#ssh)
-* [Ветвление](https://github.com/filonitta/git-lecture/blob/master/branching.md)
