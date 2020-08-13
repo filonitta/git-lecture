@@ -49,7 +49,7 @@ git config --global user.email "youremail@domain.com"
 
 После инициализации репозитория в корне проекта появится папка **.git**, которая будет содержать конфигурацию и всю историю изменений проекта
 
-<img src="images/0.png" alt="git init">
+<img src="images/00.png" alt="git init">
 
 | Рабочая директория | Индекс (changes) | Репозиторий (full history) |
 | ----------- | ----------- | ----------- |
@@ -59,7 +59,7 @@ git config --global user.email "youremail@domain.com"
 #### git status
 Команда `git status` показывает текущие изменения проекта, которые должны быть *сохранены* или *проигнорированы*
 
-<img src="images/1.png" alt="git status">
+<img src="images/01.png" alt="git status">
 
 #### git add
 Команда `git add` добавляет одно/несколько/все изменения в индекс (трекер)
@@ -70,7 +70,7 @@ git config --global user.email "youremail@domain.com"
 ```git add *.txt``` - добавляет в индекс все файлы с расширением .txt
 ```git add .``` - добавляет в индекс все файлы
 
-<img src="images/2.png" alt="git add">
+<img src="images/02.png" alt="git add">
 
 #### git commit
 Команда `git commit` записывает изменения в локальный репозиторий, то есть создает новый коммит с текущим содержимым индекса и заданным описанием
@@ -80,7 +80,7 @@ git status
 git commit -m "add entry point"
 git log --oneline
 ```
-<img src="images/3.png" alt="git commit">
+<img src="images/03.png" alt="git commit">
 
 ##### Хороший коммит
 * Каждый коммит описывает одно *законченное* действие или промежуточное состояние фичи (atomic)
